@@ -1,0 +1,278 @@
+{
+  "Layout": [
+    { "name": "AppShell", "url": "https://mantine.dev/core/app-shell/" },
+    { "name": "AspectRatio", "url": "https://mantine.dev/core/aspect-ratio/" },
+    { "name": "Center", "url": "https://mantine.dev/core/center/" },
+    { "name": "Container", "url": "https://mantine.dev/core/container/" },
+    { "name": "Flex", "url": "https://mantine.dev/core/flex/" },
+    { "name": "Grid", "url": "https://mantine.dev/core/grid/" },
+    { "name": "Group", "url": "https://mantine.dev/core/group/" },
+    { "name": "SimpleGrid", "url": "https://mantine.dev/core/simple-grid/" },
+    { "name": "Space", "url": "https://mantine.dev/core/space/" },
+    { "name": "Stack", "url": "https://mantine.dev/core/stack/" }
+  ],
+  "Inputs": [
+    { "name": "AngleSlider", "url": "https://mantine.dev/core/angle-slider/" },
+    { "name": "Checkbox", "url": "https://mantine.dev/core/checkbox/" },
+    { "name": "Chip", "url": "https://mantine.dev/core/chip/" },
+    { "name": "ColorInput", "url": "https://mantine.dev/core/color-input/" },
+    { "name": "ColorPicker", "url": "https://mantine.dev/core/color-picker/" },
+    { "name": "Fieldset", "url": "https://mantine.dev/core/fieldset/" },
+    { "name": "FileInput", "url": "https://mantine.dev/core/file-input/" },
+    { "name": "Input", "url": "https://mantine.dev/core/input/" },
+    { "name": "JsonInput", "url": "https://mantine.dev/core/json-input/" },
+    {
+      "name": "NativeSelect",
+      "url": "https://mantine.dev/core/native-select/"
+    },
+    { "name": "NumberInput", "url": "https://mantine.dev/core/number-input/" },
+    {
+      "name": "PasswordInput",
+      "url": "https://mantine.dev/core/password-input/"
+    },
+    { "name": "PinInput", "url": "https://mantine.dev/core/pin-input/" },
+    { "name": "Radio", "url": "https://mantine.dev/core/radio/" },
+    { "name": "Rating", "url": "https://mantine.dev/core/rating/" },
+    {
+      "name": "SegmentedControl",
+      "url": "https://mantine.dev/core/segmented-control/"
+    },
+    { "name": "Slider", "url": "https://mantine.dev/core/slider/" },
+    { "name": "Switch", "url": "https://mantine.dev/core/switch/" },
+    { "name": "Textarea", "url": "https://mantine.dev/core/textarea/" },
+    { "name": "TextInput", "url": "https://mantine.dev/core/text-input/" }
+  ],
+  "Combobox": [
+    { "name": "Autocomplete", "url": "https://mantine.dev/core/autocomplete/" },
+    { "name": "Combobox", "url": "https://mantine.dev/core/combobox/" },
+    { "name": "MultiSelect", "url": "https://mantine.dev/core/multi-select/" },
+    { "name": "Pill", "url": "https://mantine.dev/core/pill/" },
+    { "name": "PillsInput", "url": "https://mantine.dev/core/pills-input/" },
+    { "name": "Select", "url": "https://mantine.dev/core/select/" },
+    { "name": "TagsInput", "url": "https://mantine.dev/core/tags-input/" }
+  ],
+  "Buttons": [
+    { "name": "ActionIcon", "url": "https://mantine.dev/core/action-icon/" },
+    { "name": "Button", "url": "https://mantine.dev/core/button/" },
+    { "name": "CloseButton", "url": "https://mantine.dev/core/close-button/" },
+    { "name": "CopyButton", "url": "https://mantine.dev/core/copy-button/" },
+    { "name": "FileButton", "url": "https://mantine.dev/core/file-button/" },
+    {
+      "name": "UnstyledButton",
+      "url": "https://mantine.dev/core/unstyled-button/"
+    }
+  ],
+  "Navigation": [
+    { "name": "Anchor", "url": "https://mantine.dev/core/anchor/" },
+    { "name": "Breadcrumbs", "url": "https://mantine.dev/core/breadcrumbs/" },
+    { "name": "Burger", "url": "https://mantine.dev/core/burger/" },
+    { "name": "NavLink", "url": "https://mantine.dev/core/nav-link/" },
+    { "name": "Pagination", "url": "https://mantine.dev/core/pagination/" },
+    { "name": "Stepper", "url": "https://mantine.dev/core/stepper/" },
+    {
+      "name": "TableOfContents",
+      "url": "https://mantine.dev/core/table-of-contents/"
+    },
+    { "name": "Tabs", "url": "https://mantine.dev/core/tabs/" },
+    { "name": "Tree", "url": "https://mantine.dev/core/tree/" }
+  ],
+  "Feedback": [
+    { "name": "Alert", "url": "https://mantine.dev/core/alert/" },
+    { "name": "Loader", "url": "https://mantine.dev/core/loader/" },
+    { "name": "Notification", "url": "https://mantine.dev/core/notification/" },
+    { "name": "Progress", "url": "https://mantine.dev/core/progress/" },
+    {
+      "name": "RingProgress",
+      "url": "https://mantine.dev/core/ring-progress/"
+    },
+    {
+      "name": "SemiCircleProgress",
+      "url": "https://mantine.dev/core/semi-circle-progress/"
+    },
+    { "name": "Skeleton", "url": "https://mantine.dev/core/skeleton/" }
+  ],
+  "Overlays": [
+    { "name": "Affix", "url": "https://mantine.dev/core/affix/" },
+    { "name": "Dialog", "url": "https://mantine.dev/core/dialog/" },
+    { "name": "Drawer", "url": "https://mantine.dev/core/drawer/" },
+    { "name": "HoverCard", "url": "https://mantine.dev/core/hover-card/" },
+    {
+      "name": "LoadingOverlay",
+      "url": "https://mantine.dev/core/loading-overlay/"
+    },
+    { "name": "Menu", "url": "https://mantine.dev/core/menu/" },
+    { "name": "Modal", "url": "https://mantine.dev/core/modal/" },
+    { "name": "Popover", "url": "https://mantine.dev/core/popover/" },
+    { "name": "Spotlight", "url": "https://mantine.dev/core/spotlight/" },
+    { "name": "Tooltip", "url": "https://mantine.dev/core/tooltip/" }
+  ],
+  "Typography": [
+    { "name": "Blockquote", "url": "https://mantine.dev/core/blockquote/" },
+    { "name": "Code", "url": "https://mantine.dev/core/code/" },
+    { "name": "Highlight", "url": "https://mantine.dev/core/highlight/" },
+    { "name": "Kbd", "url": "https://mantine.dev/core/kbd/" },
+    { "name": "List", "url": "https://mantine.dev/core/list/" },
+    { "name": "Mark", "url": "https://mantine.dev/core/mark/" },
+    { "name": "Table", "url": "https://mantine.dev/core/table/" },
+    { "name": "Text", "url": "https://mantine.dev/core/text/" },
+    { "name": "Title", "url": "https://mantine.dev/core/title/" }
+  ],
+  "Data Display": [
+    { "name": "Accordion", "url": "https://mantine.dev/core/accordion/" },
+    { "name": "Avatar", "url": "https://mantine.dev/core/avatar/" },
+    { "name": "Badge", "url": "https://mantine.dev/core/badge/" },
+    { "name": "Card", "url": "https://mantine.dev/core/card/" },
+    { "name": "Collapse", "url": "https://mantine.dev/core/collapse/" },
+    { "name": "Divider", "url": "https://mantine.dev/core/divider/" },
+    { "name": "Image", "url": "https://mantine.dev/core/image/" },
+    { "name": "Spoiler", "url": "https://mantine.dev/core/spoiler/" },
+    { "name": "Timeline", "url": "https://mantine.dev/core/timeline/" },
+    {
+      "name": "Tooltip.Group",
+      "url": "https://mantine.dev/core/tooltip-group/"
+    }
+  ],
+  "Miscellaneous": [
+    { "name": "AspectRatio", "url": "https://mantine.dev/core/aspect-ratio/" },
+    {
+      "name": "BackgroundImage",
+      "url": "https://mantine.dev/core/background-image/"
+    },
+    { "name": "Paper", "url": "https://mantine.dev/core/paper/" },
+    { "name": "ScrollArea", "url": "https://mantine.dev/core/scroll-area/" },
+    { "name": "Transition", "url": "https://mantine.dev/core/transition/" }
+  ],
+  "Hooks": [
+    {
+      "name": "use-boolean-toggle",
+      "url": "https://mantine.dev/hooks/use-boolean-toggle/"
+    },
+    {
+      "name": "use-click-outside",
+      "url": "https://mantine.dev/hooks/use-click-outside/"
+    },
+    {
+      "name": "use-clipboard",
+      "url": "https://mantine.dev/hooks/use-clipboard/"
+    },
+    {
+      "name": "use-color-scheme",
+      "url": "https://mantine.dev/hooks/use-color-scheme/"
+    },
+    { "name": "use-counter", "url": "https://mantine.dev/hooks/use-counter/" },
+    {
+      "name": "use-debounced-state",
+      "url": "https://mantine.dev/hooks/use-debounced-state/"
+    },
+    {
+      "name": "use-debounced-value",
+      "url": "https://mantine.dev/hooks/use-debounced-value/"
+    },
+    {
+      "name": "use-document-title",
+      "url": "https://mantine.dev/hooks/use-document-title/"
+    },
+    {
+      "name": "use-element-size",
+      "url": "https://mantine.dev/hooks/use-element-size/"
+    },
+    { "name": "use-events", "url": "https://mantine.dev/hooks/use-events/" },
+    {
+      "name": "use-focus-return",
+      "url": "https://mantine.dev/hooks/use-focus-return/"
+    },
+    {
+      "name": "use-force-update",
+      "url": "https://mantine.dev/hooks/use-force-update/"
+    },
+    { "name": "use-form", "url": "https://mantine.dev/hooks/use-form/" },
+    {
+      "name": "use-fullscreen",
+      "url": "https://mantine.dev/hooks/use-fullscreen/"
+    },
+    { "name": "use-hotkeys", "url": "https://mantine.dev/hooks/use-hotkeys/" },
+    { "name": "use-id", "url": "https://mantine.dev/hooks/use-id/" },
+    {
+      "name": "use-interval",
+      "url": "https://mantine.dev/hooks/use-interval/"
+    },
+    {
+      "name": "use-isomorphic-effect",
+      "url": "https://mantine.dev/hooks/use-isomorphic-effect/"
+    },
+    {
+      "name": "use-list-state",
+      "url": "https://mantine.dev/hooks/use-list-state/"
+    },
+    {
+      "name": "use-local-storage",
+      "url": "https://mantine.dev/hooks/use-local-storage/"
+    },
+    {
+      "name": "use-media-query",
+      "url": "https://mantine.dev/hooks/use-media-query/"
+    },
+    { "name": "use-mouse", "url": "https://mantine.dev/hooks/use-mouse/" },
+    { "name": "use-move", "url": "https://mantine.dev/hooks/use-move/" },
+    { "name": "use-network", "url": "https://mantine.dev/hooks/use-network/" },
+    {
+      "name": "use-page-leave",
+      "url": "https://mantine.dev/hooks/use-page-leave/"
+    },
+    {
+      "name": "use-reduced-motion",
+      "url": "https://mantine.dev/hooks/use-reduced-motion/"
+    },
+    {
+      "name": "use-scroll-lock",
+      "url": "https://mantine.dev/hooks/use-scroll-lock/"
+    },
+    {
+      "name": "use-session-storage",
+      "url": "https://mantine.dev/hooks/use-session-storage/"
+    },
+    {
+      "name": "use-viewport-size",
+      "url": "https://mantine.dev/hooks/use-viewport-size/"
+    },
+    {
+      "name": "use-window-event",
+      "url": "https://mantine.dev/hooks/use-window-event/"
+    }
+  ],
+  "Dates": [
+    { "name": "Calendar", "url": "https://mantine.dev/dates/calendar/" },
+    { "name": "DatePicker", "url": "https://mantine.dev/dates/date-picker/" },
+    {
+      "name": "DatePickerInput",
+      "url": "https://mantine.dev/dates/date-picker-input/"
+    },
+    {
+      "name": "DateRangePicker",
+      "url": "https://mantine.dev/dates/date-range-picker/"
+    },
+    {
+      "name": "DateRangePickerInput",
+      "url": "https://mantine.dev/dates/date-range-picker-input/"
+    },
+    {
+      "name": "DatesProvider",
+      "url": "https://mantine.dev/dates/dates-provider/"
+    },
+    { "name": "MonthPicker", "url": "https://mantine.dev/dates/month-picker/" },
+    {
+      "name": "MonthPickerInput",
+      "url": "https://mantine.dev/dates/month-picker-input/"
+    },
+    { "name": "TimeInput", "url": "https://mantine.dev/dates/time-input/" },
+    {
+      "name": "TimeRangeInput",
+      "url": "https://mantine.dev/dates/time-range-input/"
+    },
+    { "name": "YearPicker", "url": "https://mantine.dev/dates/year-picker/" },
+    {
+      "name": "YearPickerInput",
+      "url": "https://mantine.dev/dates/year-picker-input/"
+    }
+  ]
+}
