@@ -98,7 +98,9 @@ class Plugin(albert.PluginInstance, albert.TriggerQueryHandler):
             with open(workspace, "r") as f:
                 try:
                     data = json.load(f)
-                    workspace_folder_path = data["folder"].lstrip("file://")
+                    workspace_folder_path = data.get(
+                        "folder", data.get("workspace")
+                    ).lstrip("file://")
                     project = Project(
                         name=workspace_folder_path.split("/")[-1],
                         path=workspace_folder_path,
