@@ -2,7 +2,7 @@
 
 # Define the source and destination directories
 SOURCE_DIR="$(pwd)"
-DEST_DIR="$HOME/.local/share/albert/python"
+DEST_DIR="$HOME/.local/share/albert/python/plugins"
 
 # Create the destination directory if it doesn't exist
 mkdir -p "$DEST_DIR"
